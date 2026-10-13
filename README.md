@@ -2,7 +2,7 @@
 
 I am junior developer 💻
 
-skills: C/JAVA/PYTHON/HTML/CSS/C# 📊
+Skills: C/JAVA/PYTHON/HTML/CSS/C# 📊
 
 ![Mis stats](https://github-readme-stats.vercel.app/api?username=jonathaneslava&show_icons=true)   
 
