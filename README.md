@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hello!👋 My name is Jonathan Eslava 
+
+I am junior developer 💻
+
+skills: C/JAVA/PYTHON/HTML/CSS/C# 📊
+
+![Mis stats](https://github-readme-stats.vercel.app/api?username=jonathaneslava&show_icons=true)   
+
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathaneslava&layout=compact)   
+
 
 <!--
 **jonathaneslava/jonathaneslava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
