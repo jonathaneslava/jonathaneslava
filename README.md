@@ -1,6 +1,6 @@
 ## Hello!👋 My name is Jonathan Eslava 
 
-I am junior developer 💻
+I am a junior developer 💻
 
 Skills: C/JAVA/PYTHON/HTML/CSS/C# 📊
 
